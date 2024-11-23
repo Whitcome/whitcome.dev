@@ -1,0 +1,22 @@
+body {
+  background-color: #ddd;
+  font-family: monospace;
+  color: #111;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  height: 100vh;
+
+  hr {
+    color: #999;
+  }
+
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+}
